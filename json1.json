@@ -1,0 +1,17 @@
+[
+    {
+        "id":"001",
+        "name" : "Soknoy",
+        "section" : "C"
+    },
+    {
+        "id":"002",
+        "name" : "Vichea",
+        "section" : "C"
+    },
+    {
+        "id":"003",
+        "name" : "Aki",
+        "section" : "C"
+    }
+]
